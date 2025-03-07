@@ -6,23 +6,29 @@ Este projeto é uma aplicação Windows Forms em C# desenvolvida para a gestão 
 
 # Gestão de Alunos:
 Adicionar novos alunos.
+
 Visualizar, editar e excluir informações de alunos existentes.
 
 # Gestão de Usuários:
 Adicionar novos usuários.
+
 Gerenciar informações de usuários, incluindo permissões.
 
 # Manutenção da Academia:
 Gerenciar horários de aulas.
+
 Gerenciar informações de professores.
+
 Gerenciar informações de turmas.
 
 # Autenticação:
 Sistema de login e logout para controle de acesso.
+
 Informações de Login
 
 # Usuário Administrador:
 Nome de usuário: admin
+
 Senha: 12345
 
 # Contribuições
@@ -31,12 +37,16 @@ Este projeto é aberto para todos que desejam aprender e contribuir. Sinta-se à
 # Como Usar
 
 Clone o repositório para sua máquina local.
+
 Abra o projeto no Visual Studio.
+
 Compile e execute a aplicação.
 
 # Tecnologias Utilizadas
 C#
+
 Windows Forms
+
 SQLite
 
 # Observações
